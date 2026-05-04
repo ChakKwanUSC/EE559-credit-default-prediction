@@ -11,5 +11,4 @@ This project uses supervised methods to predict whether credit card users will d
 4. Run all cells to see results
 
 # requirements
-Note: all requirements should be available in Colab already.
-python3, Numpy, Pandas, Matplotlib
+Note: all requirements should be available in Colab already: python3, Numpy, Pandas, Matplotlib
